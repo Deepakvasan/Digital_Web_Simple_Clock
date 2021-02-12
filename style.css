@@ -45,7 +45,7 @@
 }
 .button:hover{
   cursor: pointer;
-  background-color: lightgray;
+  background-color: lightyellow;
 }
 #division{
   width: 30px;
